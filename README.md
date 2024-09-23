@@ -1,2 +1,6 @@
 # Credit-Card-Fraud-Detection
-made a machine learning-based system to detect fraud transactions. solved the unbalanced data problem , made anomaly detection using isolation forests and trained the svm, logistic and random forest algorithms on the processed data and got 99% accuracy . 
+Description: developed SVM,logistic regression and random forest to classify wether a transaction is fraud or non fraud.
+
+Installation Instructions: You need to download it as zip, then unzip it, and you need Visual Studio or PyCharm to run the flask deployment with the index.html. You could run the Credit_Card_Fraud_Detection_project.ipynb on Jupyter or Colab, and the credit_card_fraud_detection_project.py if you plan to run it outside of Colab, like on a local machine or server.
+
+File Structure: each file contains data processing visualization training and testing
